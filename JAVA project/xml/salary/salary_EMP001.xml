@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<salaryData>
+    <employeeID>EMP001</employeeID>
+    <basic>10000.0</basic>
+    <hra>4000.0</hra>
+    <da>2000.0</da>
+    <bonus>2000.0</bonus>
+    <pf>1800.0</pf>
+    <tax>10.0</tax>
+    <net>13733.333333333334</net>
+    <present>9</present>
+    <absent>2</absent>
+    <overtime>0</overtime>
+</salaryData>
